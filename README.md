@@ -65,6 +65,19 @@ Assista ao vídeo abaixo para uma explicação mais visual de como utilizar o Sl
 
 ---
 
+## 📚 Em breve: tutorial completo
+
+🔧 Estarei enviando um **tutorial** para vocês de como instalar o slinky, o meu no video mostrou para abrir a tecla insert
+porém no meu computador já está configurado a tecla padrão para a primeira instalação e a **Right Shift (RShift)`** Ela fica abaixo do enter.
+
+![image](https://github.com/user-attachments/assets/64c65884-d7b1-4785-b8c4-b3b190139110)
+
+Assista ao vídeo abaixo para uma explicação mais visual de como utilizar o Slinky:
+
+🔗 [Clique aqui para ver o tutorial](https://streamable.com/a07o5a)
+
+---
+
 ## 🤝 Agradecimentos
 
 A todos que testaram, sugeriram melhorias ou ajudaram a compactar e distribuir o Slinky!
