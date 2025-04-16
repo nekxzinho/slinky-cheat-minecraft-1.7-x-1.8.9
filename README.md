@@ -46,6 +46,13 @@ Ele foi testado e funciona perfeitamente nas versões:
 - Nós **não nos responsabilizamos** por qualquer consequência do uso deste software.
 
 ---
+## 🎥 Vídeo Explicativo
+
+Assista ao vídeo abaixo para uma explicação mais visual de como utilizar o Slinky:
+
+🔗 [Clique aqui para ver o vídeo](https://www.youtube.com/watch?v=04VY30dHn2Q)
+
+---
 
 ## 🤝 Agradecimentos
 
