@@ -20,6 +20,13 @@ Para utilizá-lo, siga os passos abaixo para extrair e instalar corretamente.
 
 ![image](https://github.com/user-attachments/assets/ca34ef43-1b71-4811-b92b-1a3903860acc)
 
+---
+### 2. 🥋 Execute o Slinky
+- Após extrair, você verá um arquivo `Slinky.exe` e alguns arquivos `.dll`.
+- **É só executar o `Slinky.exe` com as `.dll` na mesma pasta** e ser feliz 😎
+- O injetor será iniciado e você poderá carregar o cheat no Minecraft (versão compatível).
+---
+
 ## 🧩 Compatibilidade
 
 O **Slinky** é compatível com **todas as versões de clientes Minecraft entre 1.7 e 1.8.9**, incluindo:
